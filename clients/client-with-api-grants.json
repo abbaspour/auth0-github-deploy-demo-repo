@@ -1,0 +1,30 @@
+{
+	"allowed_clients": [],
+	"allowed_logout_urls": [],
+	"allowed_origins": [],
+	"app_type": "non_interactive",
+	"callbacks": [],
+	"cross_origin_auth": false,
+	"custom_login_page_on": true,
+	"description": "",
+	"grant_types": [
+		"authorization_code",
+		"implicit",
+		"refresh_token",
+		"client_credentials"
+	],
+	"is_first_party": true,
+	"is_token_endpoint_ip_header_trusted": false,
+	"jwt_configuration": {
+		"alg": "HS256",
+		"lifetime_in_seconds": 36000,
+		"secret_encoded": false
+	},
+	"logo_uri": "",
+	"name": "client-with-api-grants",
+	"oidc_conformant": false,
+	"sso": false,
+	"sso_disabled": false,
+	"token_endpoint_auth_method": "client_secret_post",
+	"web_origins": []
+}

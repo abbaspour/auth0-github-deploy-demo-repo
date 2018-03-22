@@ -1,0 +1,11 @@
+{
+  "grants": {
+    "http://demoapi": [
+      "write:somevalue",
+      "read:somevalue"
+    ],
+    "https://amin02-dev.auth0.com/api/v2/" : [
+      "read:users"
+    ]
+  }
+}
