@@ -6,7 +6,7 @@
       "http://localhost:8080",
       "https://somedomain.com"
     ],
-    "color": "green"
+    "color": "blue"
   },
   "AUTH0_EXCLUDED_RULES": [
     "rule-1-name",
